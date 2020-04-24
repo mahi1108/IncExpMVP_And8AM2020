@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IncExpMVP_And8AM2020</string>
+    <string-array name="inc_exp_type">
+        <item>Select</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+</resources>
